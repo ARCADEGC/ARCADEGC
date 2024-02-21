@@ -38,11 +38,6 @@ src="https://img.shields.io/github/followers/ARCADEGC?logo=github&style=for-the-
 <a href="https://github.com/ARCADEGC" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCADEGC&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=444e59&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/arcade_gc"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<a href="https://www.buymeacoffee.com/arcade_gc"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 <a href="https://app.daily.dev/arcadegc"><img src="https://api.daily.dev/devcards/v2/STwth6iRE5Fdo3Q7J69XQ.png?r=h5i&type=default" width="356" alt="Jaromír Trnka's Dev Card"/></a>
