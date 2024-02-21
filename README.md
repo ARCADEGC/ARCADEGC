@@ -44,3 +44,5 @@ src="https://img.shields.io/github/followers/ARCADEGC?logo=github&style=for-the-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/arcade_gc"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+<a href="https://app.daily.dev/arcadegc"><img src="https://api.daily.dev/devcards/v2/STwth6iRE5Fdo3Q7J69XQ.png?r=h5i&type=default" width="356" alt="Jaromír Trnka's Dev Card"/></a>
