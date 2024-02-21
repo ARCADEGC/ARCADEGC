@@ -6,13 +6,13 @@ Frontend developer and a student!
 
 I started coding on high school and since then I love it. After lingering around CLI code for a bit I went to web development and got stuck with web design in which I found a job. Currently I work a frontend develop and web designer for Vacha Software.
 
-* 🌍  I'm based in Česká Kamenice
+* 🌍  Living in the Czech Republic 🇨🇿
 * 🖥️  See my portfolio at [My GitHub](http://https://github.com/ARCADEGC)
-* ✉️  You can contact me at [JrTrnka55@gmail.com](mailto:JrTrnka55@gmail.com)
-* 🚀  I'm currently working on [Technowizz Evidence Database System](http://https://github.com/Technowizz-2023)
-* 🧠  I'm learning ElysiaJS with HTMX and React
-* 🤝  I'm open to collaborating on Open source projects, Donationware projects for public, AI and Fullstack applications
-* ⚡  Don't put me near anything other then TailwindCSS >:)
+* ✉️  Send me an email to [JrTrnka55@gmail.com](mailto:JrTrnka55@gmail.com)
+* 🚀  I'm currently working on TODO
+* 🧠  I'm learning full stack development with React, Payload and SurrealDB
+* 🤝  I'm open to collaborating on Open source projects, Donationware for public, AI and Fullstack applications
+* ⚡  Shadcn/ui 🤍
 
 <a href="https://www.github.com/ARCADEGC" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ARCADEGC?logo=github&style=for-the-badge&color=444e59&labelColor=22272e" /></a>
